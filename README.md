@@ -1,4 +1,9 @@
 # SI-GuidedProject-7171-1640582291
+
+Google Drive Link : https://drive.google.com/drive/folders/1aTHmENrN4bBCy4GNhofpe4DHhQUPlcyg?usp=sharing
+
+About The Project:
+
 Pneumonia affects a large number of individuals, especially children, in developing countries where risk factors include poor sanitary conditions, malnutrition, and a lack of appropriate medical services. 
  Pneumonia becomes the reason for the death of around three lakh children in India and to our astonishment half of the pneumonia deaths are of children in India. Most of the time the disease is being ignored. Many lives can be saved if it is detected on time.
 For a successful recovery, pneumonia must be detected early. X-ray scan examination is the most common way of diagnosis, albeit it is based on the radiologist's interpretation ability. An autonomous system with generalising capabilities is required to detect the condition. Some studies have shown that discrepancies in the interpretation of chest x-rays by radiologists are common. 
